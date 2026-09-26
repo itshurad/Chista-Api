@@ -1,0 +1,20 @@
+Project Tasks
+
+1. Create Validation ✅
+
+   * Implement the required validation rules.
+   * Test validation for different input cases.
+
+2. Test Postman Documentation 
+
+   * Create and organize the API collection in Postman.
+   * Document the available endpoints and required parameters.
+
+3. Choose a Project Name ✅
+
+   * Find and select a suitable name for the project.
+
+4. Create a Test Email ✅
+
+   * Create a dedicated email account for testing purposes.
+   * Use it for email-related tests and development.

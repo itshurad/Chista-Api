@@ -1,0 +1,38 @@
+{
+  "name": "chista",
+  "version": "1.0.0",
+  "description": "A RESTful API for an online learning platform built with Node.js, Express, and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "rest-api",
+    "education",
+    "online-learning",
+    "backend"
+  ],
+  "author": "Hurad",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.3.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "fastest-validator": "^1.19.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.10.0",
+    "multer": "^2.4.0",
+    "nodemailer": "^10.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
